@@ -4,6 +4,10 @@
 
 ---
 
+Esta herramienta se mantiene en fase de desarollo, el objetivo final sera poder reconecer y evadir el firewall usando solo esta herramienta. 
+
+---
+
 ## 📌 Descripción
 
 Esta herramienta permite:
